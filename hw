@@ -1,0 +1,8 @@
+print("Enter the First String: ")
+str1 = input()
+
+print("Enter the Second String: ")
+str2 = input()
+
+strThree = str1 +" "+ str2
+print("\nConcatenated String: ", strThree)
